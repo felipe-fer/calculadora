@@ -1,7 +1,6 @@
 {
   "name": "calculadora",
   "version": "1.0.0",
-  "description": "",
   "main": "src/calculator.js",
   "directories": {
     "test": "tests"
@@ -19,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/MSCiriaco81/calculadora/issues"
   },
-  "homepage": "https://github.com/MSCiriaco81/calculadora#readme"
+  "homepage": "https://github.com/MSCiriaco81/calculadora#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
 }
